@@ -1,0 +1,22 @@
+<h1>Delete Cheese</h1>
+
+@if (ViewBag.cheeses.Count == 0)
+{
+    <p>No cheeses yet!</p>
+}
+<form method="post">
+
+    @foreach(CheeseMVC.Models.Cheese cheese in ViewBag.cheeses)
+    {
+        <li> 
+            Cheese: <br>
+            @cheese.Name<br>
+            Description: <br>
+            @cheese.Description <br>
+            <input type="checkbox" name="cheeseIDs" id="@cheese.ID" value="@cheese.ID"/> <br>
+        </li>
+    }
+    
+<input type="submit" value="Remove Cheese" />
+
+</form>

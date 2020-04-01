@@ -11,4 +11,10 @@
     Enter cheese description here.
     </textarea> <br>
     <input type="submit" value="Add Cheese" />
+    
+    @if (ViewBag.error == true)
+    {
+        <br>
+        <p>Please only enter letters and spaces. Other characters are invalid.</p>
+    }
 </form>

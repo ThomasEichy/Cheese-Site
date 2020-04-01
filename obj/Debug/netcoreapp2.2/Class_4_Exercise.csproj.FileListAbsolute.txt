@@ -30,3 +30,4 @@
 /home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/obj/Debug/netcoreapp2.2/Class_4_Exercise.pdb
 /home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/obj/Debug/netcoreapp2.2/Class_4_Exercise.csproj.CopyComplete
 /home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/obj/Debug/netcoreapp2.2/Razor/Views/Cheese/Add.g.cshtml.cs
+/home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/obj/Debug/netcoreapp2.2/Razor/Views/Cheese/Subtract.g.cshtml.cs

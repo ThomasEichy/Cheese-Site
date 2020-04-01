@@ -2962,52 +2962,57 @@
   "Documents": [
     {
       "FilePath": "/home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/Views/Shared/Error.cshtml",
-      "TargetPath": "Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/Views/_ViewImports.cshtml",
-      "TargetPath": "Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/Views/Home/Index.cshtml",
-      "TargetPath": "Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/Views/Shared/_CookieConsentPartial.cshtml",
-      "TargetPath": "Views/Shared/_CookieConsentPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/Views/Cheese/Add.cshtml",
-      "TargetPath": "Views/Cheese/Add.cshtml",
+      "TargetPath": "Views\\Cheese\\Add.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/Views/Cheese/Subtract.cshtml",
+      "TargetPath": "Views\\Cheese\\Subtract.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/Views/Cheese/index.cshtml",
-      "TargetPath": "Views/Cheese/index.cshtml",
+      "TargetPath": "Views\\Cheese\\index.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views/Home/Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/home/teichinger/Documents/Web_Scripting_3/Programs/Class_4_Exercise/Views/_ViewStart.cshtml",
-      "TargetPath": "Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],
